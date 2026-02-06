@@ -1,0 +1,3 @@
+## Welcome
+
+List ideas here: temperature, rainfall, ...
